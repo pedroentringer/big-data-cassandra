@@ -2,6 +2,6 @@
 
 Work carried out in the master's degree in data science to improve the fundamentals of:
 
--Spark
+- Spark
 - Cassandra
 - Kafka
